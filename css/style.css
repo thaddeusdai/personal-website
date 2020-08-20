@@ -16,7 +16,7 @@ body {
   min-height: 200px;
 }
 #home-section {
-  background: url(../../../project_images/project_images/looplab/home.jpg);
+  background: url(../img/home.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
